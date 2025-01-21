@@ -1,0 +1,32 @@
+(10:36:48) ERR_RTM:hasp driver login = 7
+(10:36:48) INF_LOAD:Starting... Проект_2_0
+(10:36:48) INF_RTM:Detected RTM NT(6.2)
+(10:36:48) INF_RTM:Base TRACE MODE 6 Profiler T-Factory + ver. 6.10.2 ver. 6.10.1 
+(10:36:48) INF_LOAD:max channel = 65535
+(10:36:48) INF_LOAD:Load Channels 2(1 - 2) 
+(10:36:48) INF_LOAD:Templates=1 (math=0 sql=0 scr=1 doc=0 pnl=0) 
+(10:36:48) INF_LOAD:Objects = 0
+(10:36:48) INF_RTM:Timer=0.055s CalcLoop=550ms 
+(10:36:48) INF_LOAD:LoadTime=0.022s CalcPeriod=550ms 
+(10:36:48) INF_RTM:available(MB): pm=15724 vm=2047; free(MB): pm=8247 vm=1917 em=0 after load
+(10:36:48) INF_RTM:total use(MB): pm=7476 vm=130 after load
+(10:36:48) INF_RTM:use(MB): pm=22(22) vm=44(44) pf=8 after load
+(10:36:48) INF_RTM:gh:11 uh:9 hh:180 after load
+(10:36:51) INF_IP:hostname is DESKTOP-ECTSMH0 
+(10:36:51) INF_IP:card0 addr=0.0.0.0 
+(10:36:51) INF_IP:card1 addr=192.168.56.1 
+(10:36:51) INF_IP:card2 addr=26.255.110.15 
+(10:36:51) INF_IP:card3 addr=192.168.160.214 
+(10:36:51) INF_FLT:ModeSwitch at start e15=0000 e18=0000 e20=0000 
+(10:36:51) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [src4] 
+(10:36:51) INF_RTM:start time is 0.013 s 
+(10:36:51) INF_RTM:total use(MB): pm=7559 vm=316 after start
+(10:36:51) INF_RTM:use(MB): pm=89(89) vm=75(116) pf=24854 after start
+(10:36:51) INF_RTM:gh:518 uh:258 hh:2079 after start
+(10:36:51) INF_GRAPH:scr:1:popup=0 scrref=0 trend=1,0 update=1 
+(10:37:10) INF_RTM:stoping... = 30
+(10:37:10) INF_RTM:main clc stop 
+(10:37:10) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [src0] 
+(10:37:12) INF_RTM:stop time is 1.386 s 
+(10:37:12) INF_RTM:number of calculation = 32
+(10:37:12) INF_RTM:END OF WORK 
